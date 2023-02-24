@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/02/11 10:14:08.000.280,=C:\Users\raque\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/18 08:40:28.000.185,=C:\Users\raque\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/24 08:15:40.000.432,=C:\Users\raque\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/24 08:33:02.000.084,=C:\Users\raque\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/24 09:59:20.610,=C:\Users\raque\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/24 10:08:39.030,C:\Users\raque\Documents\Embarcadero\Studio\Projects\EstudandoTestes_DUnitX_Delphi\Calculadora\forms\Calculadora.frm.principal.dfm=C:\Users\raque\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/02/24 10:08:39.030,C:\Users\raque\Documents\Embarcadero\Studio\Projects\EstudandoTestes_DUnitX_Delphi\Calculadora\forms\Calculadora.frm.principal.pas=C:\Users\raque\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/24 10:08:56.186,C:\Users\raque\Documents\Embarcadero\Studio\Projects\EstudandoTestes_DUnitX_Delphi\Calculadora\Calculadora_DUnitX.dproj=C:\Users\raque\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
